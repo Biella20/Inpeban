@@ -72,11 +72,5 @@
      "video": "https://www.youtube.com/watch?v=BmrCqnSpPQo", 
      "maps": "https://www.google.com/maps/place/Museum+Kambang+Putih/@-6.8960821,112.0643604,15z/data=!4m6!3m5!1s0x2dd80041a4211d93:0xfcb7235fbf74b534!8m2!3d-6.8960821!4d112.0643604!16s%2Fg%2F1hm2fpc3_?hl=id" }
 ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  
 }
