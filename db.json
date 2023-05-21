@@ -18,7 +18,15 @@
      "video": "https://www.youtube.com/watch?v=uclC3_Udfyw", 
      "maps": "https://www.google.com/maps/place/Masjid+Agung+Tuban/@-6.8949798,112.0638436,15z/data=!4m6!3m5!1s0x2e77bd5910000001:0xed0dce27b7ed4ddb!8m2!3d-6.8949798!4d112.0638436!16s%2Fg%2F1pzpkq8hg" },
     
-    { "id": 3, "title": "Post 2" },
+    { "id": 3,
+     "name": "Post 2", 
+     "rating": "", 
+     "category": "", 
+     "description": "", 
+     "image": "", 
+     "video": "", 
+     "maps": "" },
+    
     { "id": 4, "title": "Post 3" }
   ],
   "comments": [
