@@ -46,9 +46,7 @@
      "rating": "4.4",
      "address": "",
      "phone": "",
-      "image": "https://wisato.id/wp-content/uploads/2022/06/2017-02-06-scaled.jpg" },
-    
-    
+      "image": "https://wisato.id/wp-content/uploads/2022/06/2017-02-06-scaled.jpg" }    
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
