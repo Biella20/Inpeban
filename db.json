@@ -49,12 +49,24 @@
      "image": "https://wisato.id/wp-content/uploads/2022/06/2017-02-06-scaled.jpg" }    
   ],
   "gallery": [
-    { "id": 101, "name": "Batik Gedog", "image": "https://cdn.tatlerasia.com/indonesiatatler/images/i/20190621150909-gedog-motifbatik_resized_772x406.jpg" },
-    { "id": 102, "name": "Dumbek", "image": "https://nasikotaktasneem.com/wp-content/uploads/2022/06/dumbek.jpg" }
-    { "id": 103, "name": "Ampo", "image": "https://cdn.idntimes.com/content-images/community/2021/01/fromandroid-59b17f9835ae77abd96bb3cbc5137c1b_600x400.jpg" }
-    { "id": 104, "name": "Upacara Sedekah Laut", "image": "https://kabartuban.com/wp-content/uploads/2023/01/tradisi-tuban.jpeg" }
-    { "id": 105, "name": "Tradisi Sedekah Bumi", "image": "https://ngino-semanding.desa.id/desa/upload/artikel/sedang_1652410085_IMG-20220306-WA0051.jpg" }
-    { "id": 106, "name": "Thak Thakan", "image": "https://kabartuban.com/wp-content/uploads/2023/01/kesenian-thak-thakan-dan-ongkek.jpeg" }
+    { "id": 101, 
+     "name": "Batik Gedog", 
+     "image": "https://cdn.tatlerasia.com/indonesiatatler/images/i/20190621150909-gedog-motifbatik_resized_772x406.jpg" },
+    { "id": 102, 
+     "name": "Dumbek", 
+     "image": "https://nasikotaktasneem.com/wp-content/uploads/2022/06/dumbek.jpg" },
+    { "id": 103, 
+     "name": "Ampo", 
+     "image": "https://cdn.idntimes.com/content-images/community/2021/01/fromandroid-59b17f9835ae77abd96bb3cbc5137c1b_600x400.jpg" },
+    { "id": 104, 
+     "name": "Upacara Sedekah Laut", 
+     "image": "https://kabartuban.com/wp-content/uploads/2023/01/tradisi-tuban.jpeg" },
+    { "id": 105, 
+     "name": "Tradisi Sedekah Bumi", 
+     "image": "https://ngino-semanding.desa.id/desa/upload/artikel/sedang_1652410085_IMG-20220306-WA0051.jpg" },
+    { "id": 106, 
+     "name": "Thak Thakan", 
+     "image": "https://kabartuban.com/wp-content/uploads/2023/01/kesenian-thak-thakan-dan-ongkek.jpeg" }
   ],
   "profile": {
     "name": "typicode"
