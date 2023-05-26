@@ -48,9 +48,13 @@
      "phone": "0812 4954 8615",
      "image": "https://wisato.id/wp-content/uploads/2022/06/2017-02-06-scaled.jpg" }    
   ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
+  "gallery": [
+    { "id": 101, "name": "Batik Gedog", "image": "https://cdn.tatlerasia.com/indonesiatatler/images/i/20190621150909-gedog-motifbatik_resized_772x406.jpg" },
+    { "id": 102, "name": "Dumbek", "image": "https://nasikotaktasneem.com/wp-content/uploads/2022/06/dumbek.jpg" }
+    { "id": 103, "name": "Ampo", "image": "https://awsimages.detik.net.id/community/media/visual/2021/12/08/ampo-1.jpeg?w=700&q=90" }
+    { "id": 104, "name": "Upacara Sedekah Laut", "image": "https://kabartuban.com/wp-content/uploads/2023/01/tradisi-tuban.jpeg" }
+    { "id": 105, "name": "Tradisi Sedekah Bumi", "image": "https://www.ngopibareng.id/images/uploads/2022/2022-07-28/gelar-sedekah-bumi-warga-tuban-bawa-gunungan-hasil-bumi--thumbnail-921.webp" }
+    { "id": 106, "name": "Thak Thakan", "image": "https://kabartuban.com/wp-content/uploads/2023/01/kesenian-thak-thakan-dan-ongkek.jpeg" }
   ],
   "profile": {
     "name": "typicode"
