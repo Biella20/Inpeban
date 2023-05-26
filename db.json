@@ -1,8 +1,54 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
+  "recomendation": [
+    { "id": 1, 
+     "name": "Klenteng Kwan Sin Bio",
+     "category": "Tempat Religius",
+     "rating": "4.6",
+     "address": "",
+     "phone": "",
+     "image": "https://www.tempatwisata.pro/users_media/3086/1_44.jpg" },
+    
+    { "id": 2, 
+     "name": "Pantai Boom",
+     "category": "Pantai",
+     "rating": "4.1",
+     "address": "",
+     "phone": "",
+     "image": "https://memorandum.co.id/wp-content/uploads/2022/10/Alamat-Pantai-Boom.jpg" },
+    
+    { "id": 3, 
+     "name": "Pantai Sowan",
+     "category": "Pantai",
+     "rating": "4.2",
+     "address": "",
+     "phone": "",
+     "image": " https://www.nativeindonesia.com/foto/2023/05/wisata-pantai-sowan.jpg" },
+    
+    { "id": 4, 
+     "name": "Goa Akbar",
+     "category": "Tujuan Wisata",
+     "rating": "4.2",
+     "address": "",
+     "phone": "",
+      "image": "https://i.ytimg.com/vi/ujonPykjHks/maxresdefault.jpg" },
+    
+    { "id": 5, 
+     "name": "Klenteng Kwan Sin Bio",
+     "category": "Tempat Religius",
+     "rating": "4.6",
+     "address": "",
+     "phone": "",
+      "image": "" },
+    
+    { "id": 6, 
+     "name": "Pantai Pasir Putih Remen",
+     "category": "Pantai",
+     "rating": "4.4",
+     "address": "",
+     "phone": "",
+      "image": "https://wisato.id/wp-content/uploads/2022/06/2017-02-06-scaled.jpg" },
+    
+    
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
