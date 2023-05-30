@@ -82,7 +82,13 @@
      "image": "https://ngino-semanding.desa.id/desa/upload/artikel/sedang_1652410085_IMG-20220306-WA0051.jpg" },
     { "id": 106, 
      "name": "Thak Thakan", 
-     "image": "https://kabartuban.com/wp-content/uploads/2023/01/kesenian-thak-thakan-dan-ongkek.jpeg" }
+     "image": "https://kabartuban.com/wp-content/uploads/2023/01/kesenian-thak-thakan-dan-ongkek.jpeg" },
+    { "id": 107, 
+     "name": "Ongkek", 
+     "image": "https://3.bp.blogspot.com/-WfE3HK-uz90/T04zaBEGZKI/AAAAAAAAAA0/pH4KUq7o3OA/s1600/bbb.jpg" },
+    { "id": 108, 
+     "name": "Legen", 
+     "image": "https://tubankab.go.id/files/2021-07/whatsapp-image-2021-07-13-at-12.47.35.jpeg" }
   ]
   
 }
